@@ -1,0 +1,44 @@
+[
+    {
+    "marca": "Audi",
+    "modelo": "A4",
+    "velocidadMaxima": 210,
+    "aceleracion":25,
+    "potencia": 130
+    },
+    {
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "velocidadMaxima": 180,
+    "aceleracion":20,
+    "potencia": 110
+    },
+    {
+    "marca": "Mercedes Benz",
+    "modelo": "GT 4",
+    "velocidadMaxima": 215,
+    "aceleracion":24,
+    "potencia": 128
+    },
+    {
+    "marca": "Peugeot",
+    "modelo": "408",
+    "velocidadMaxima": 175,
+    "aceleracion":19,
+    "potencia": 98
+    },
+    {
+    "marca": "Fiat",
+    "modelo": "147",
+    "velocidadMaxima": 100,
+    "aceleracion":12,
+    "potencia": 50
+    },
+    {
+    "marca": "Chevrolet",
+    "modelo": "Camaro",
+    "velocidadMaxima": 196,
+    "aceleracion":32,
+    "potencia": 154
+    }
+]
